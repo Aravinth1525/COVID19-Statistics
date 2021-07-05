@@ -1,4 +1,4 @@
-## <h1>➤ Covid-19-Project</h1>
+## <h1>➤ COVID19-Project</h1>
 
 ### This website shows live statistics of COVID-19, reported globally.
 
