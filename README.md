@@ -18,7 +18,7 @@
 
 ### ➤ Hosting Platform - [Heroku](https://www.heroku.com/)
  
-### ** Run Command - python manage.py runserver.
+### Run Command - python manage.py runserver.
 
 ### ➤ Result
 
