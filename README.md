@@ -1,26 +1,26 @@
-## <h1>➤ COVID19-Project</h1>
+## COVID19-Project
 
 ### This website shows live statistics of COVID-19, reported globally.
 
-### **➤ Website link** - [aravinthcovid.herokuapp.com](https://aravinthcovid.herokuapp.com/)
+### Website link - [aravinthcovid.herokuapp.com](https://aravinthcovid.herokuapp.com/)
 
-### **➤ API used** - [Rapid API](https://rapidapi.com/api-sports/api/covid-193)
+### API used - [Rapid API](https://rapidapi.com/api-sports/api/covid-193)
 
-### ➤ Languages Used
+### Languages Used
 
 1. PYTHON
 2. HTML
 3. CSS
 
-### ➤ Frameworks Used 
+### Frameworks Used 
 
 1. DJANGO
 
-### ➤ Hosting Platform - [Heroku](https://www.heroku.com/)
+### Hosting Platform - [Heroku](https://www.heroku.com/)
  
-### ➤ Run Command - python manage.py runserver.
+### Run Command - python manage.py runserver.
 
-### ➤ Result
+## Result
 
 ✔️ 2nd July, 2021
 
