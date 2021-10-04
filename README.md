@@ -6,12 +6,6 @@
 
 ### API used - [Rapid API](https://rapidapi.com/api-sports/api/covid-193)
 
-### Languages Used
-
-1. PYTHON
-2. HTML
-3. CSS
-
 ### Frameworks Used 
 
 1. DJANGO
