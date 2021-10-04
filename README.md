@@ -6,11 +6,9 @@
 
 ### API used - [Rapid API](https://rapidapi.com/api-sports/api/covid-193)
 
-### Frameworks Used 
+### Framework
 
 1. DJANGO
-
-### Hosting Platform - [Heroku](https://www.heroku.com/)
 
 ## Result
 
