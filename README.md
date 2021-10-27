@@ -2,8 +2,6 @@
 
 ### This website shows live statistics of COVID-19, reported globally.
 
-### Website link - [aravinthcovid.herokuapp.com](https://aravinthcovid.herokuapp.com/)
-
 ### API used - [Rapid API](https://rapidapi.com/api-sports/api/covid-193)
 
 ### Framework
