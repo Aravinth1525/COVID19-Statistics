@@ -4,7 +4,7 @@
 
 ### API used - [Rapid API](https://rapidapi.com/api-sports/api/covid-193)
 
-### Framework - DJANGO
+### Framework - [DJANGO](https://www.djangoproject.com/)
 
 ## Result
 
